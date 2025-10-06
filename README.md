@@ -6,8 +6,8 @@
 
 ## 项目结构
 
-
-CV-Demo/
+```
+V-Demo/
 ├── demo_env/            # 环境配置文件
 │   └── environment.yml
 ├── doc/                 # 项目文档
@@ -21,7 +21,9 @@ CV-Demo/
     │   ├── face_img/
     │   └── face_iphone/
     └── style_transfer/  # 风格迁移模块
-        └── transfer.py
+        └── transfer.pyC
+```
+
 
 ##  环境配置
 
